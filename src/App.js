@@ -12,7 +12,7 @@ function App() {
     selected: {},
   });
 
-  const apiurl = 'http://www.omdbapi.com/?apikey=312e1310';
+  const apiurl = 'GET YOUR OMDb API KEY FROM here http://www.omdbapi.com/ ';
 
   const search = (e) => {
     if (e.key === 'Enter') {
